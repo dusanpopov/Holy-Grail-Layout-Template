@@ -7,7 +7,6 @@ body {
   flex-direction: column;
   min-height: 100vh;
   font-family: "Noto Sans", sans-serif;
-  
 }
 
 *{
@@ -47,14 +46,12 @@ aside {
 
 article {
   flex: 4 0 60%;
-
   background-color: #e74c3c;
 }
 
 main > *, header, footer {
     margin: .2rem;
     padding: .5rem;
-
 }
 
 @media all and (max-width: 64rem) {
