@@ -58,7 +58,7 @@ main > *, header, footer {
   main {
     flex-direction: column;
   }
-
+  
   nav {
     order: 0;
   }
